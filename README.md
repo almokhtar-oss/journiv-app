@@ -1,5 +1,7 @@
 # 📘 Journiv - Private Journal
 
+[![Deploy to Railyard](https://app.railyard.run/deploy/badge)](https://app.railyard.run/deploy?repo=https://github.com/journiv/journiv-app)
+
 > ⚠️ **Beta Software**
 >
 > Journiv is currently in **beta** and under **active development**.
